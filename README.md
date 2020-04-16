@@ -1,6 +1,10 @@
 ## Desafio
 
-Faça um fork desse repositório, crie uma pasta `respostas` e faça os quatro desafios separados em arquivos diferentes, e suba o projeto pronto no seu github, deixando o projeto público. Se possível faça um README para o desafio fique a vontade para usar esse arquivo ou um novo, testes e métricas são sempre bem vindos. Good luck!
+Crie um projeto no github privado, suba seus codigos e nos de acesso ao repositorio ao acabar para esse usuário.
+Crie um arquivo para cada desafio.
+Se possível faça um README para o desafio, testes e métricas são sempre bem vindos. Good luck!
+
+Caso de duvidas enviar para desenvolvimento@qflash.com.br
 
 
 # Desafio 0 - Aquecendo a lógica
