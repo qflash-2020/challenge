@@ -14,7 +14,7 @@ Faça uma classe que calcule o numero de passos para um numero chegar em 1 utili
 
 # Desafio 1 - Consumindo API's
 
-Faça uma requisição para o endpoint https://reqres.in/api/users?page=1, passando o argumento `pages`, itere todas as páginas disponíveis e monte um json customizado contendo apenas nomes completos e emails dos usuários. Salve o conteúdo em um arquivo com o timestamp de quando foi feita a requisição.
+Faça uma requisição para o endpoint https://reqres.in/api/users?page=1, passando o argumento `pages`, itere todas as páginas disponíveis e monte um json customizado contendo apenas nomes completos e emails dos usuários. Salve o json num arquivo com o nome timestamp.json ainde o timestamp contem a data e a hora que foi feita a requisição.
 
 
 # Desafio 2 - Lendo, convertendo e interpretando
