@@ -1,6 +1,6 @@
 ## Desafio
 
-Crie um projeto no github privado, suba seus codigos e nos de acesso (desenvolvimento@qflash.com.br) ao repositorio ao acabar para esse usuário.
+Crie um projeto no github privado, suba seus codigos e nos de acesso (desenvolvimento@qflash.com.br) ao repositorio ao acabar.
 Crie um arquivo para cada desafio.
 Se possível faça um README para o desafio, testes e métricas são sempre bem vindos. Good luck!
 
